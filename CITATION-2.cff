@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: QuantumSymmetry
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Dario
+    family-names: Picozzi
+    email: picozzi.dario@gmail.com
+    affiliation: University College London (UCL)
+    orcid: 'https://orcid.org/0000-0002-6517-2458'
+repository-code: 'https://github.com/dariopicozzi/quantumsymmetry'
+keywords:
+  - quantum
+  - computing
+  - molecular
+  - chemistry
+  - symmetry
+doi: 10.5281/zenodo.7724697
